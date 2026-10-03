@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "title": "営業店DX推進レポート",
+    "url": "https://kb.techzeron-bank.example/dx-report",
+    "description": "窓口業務のペーパーレス化で事務時間を30%削減したDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "営業店",
+      "業務効率"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "事例"
+  },
+  {
+    "id": 2,
+    "title": "住宅ローン審査AI導入の検討",
+    "url": "https://kb.techzeron-bank.example/ai-screening",
+    "description": "AI事前審査で融資業務をDX化する企画提案",
+    "keywords": [
+      "AI",
+      "融資",
+      "審査"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "企画"
+  },
+  {
+    "id": 3,
+    "title": "法人融資 稟議書の書き方ガイド",
+    "url": "https://kb.techzeron-bank.example/ringi-guide",
+    "description": "法人融資の稟議書作成の標準手順とチェックリスト",
+    "keywords": [
+      "融資",
+      "稟議",
+      "法人"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "業務マニュアル"
+  },
+  {
+    "id": 4,
+    "title": "AIチャットボットによる照会対応DX",
+    "url": "https://kb.techzeron-bank.example/chatbot-dx",
+    "description": "コールセンターにAIチャットボットを導入し照会対応を効率化したDX事例",
+    "keywords": [
+      "AI",
+      "DX",
+      "コールセンター"
+    ],
+    "author": "佐藤健太",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "title": "全店DX推進ロードマップ2026",
+    "url": "https://kb.techzeron-bank.example/dx-roadmap",
+    "description": "勘定系刷新とデジタルチャネル強化を柱とする全店DX計画の概要",
+    "keywords": [
+      "DX",
+      "経営企画",
+      "デジタル"
+    ],
+    "author": "中村美咲",
+    "created_at": "2025-01-19",
+    "category": "企画"
+  },
+  {
+    "id": 6,
+    "url": "https://jolly-cactus-c0dde5-with.netlify.app/",
+    "title": "1年後の自分に仲間と会いに行こう",
+    "description": "tech0の自己紹介ページ",
+    "keywords": [
+      "小説",
+      "音楽"
+    ],
+    "author": "山崎法子",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 7,
+    "title": "プロフィール",
+    "url": "https://self-introduction-takada-bs-with.netlify.app/",
+    "description": "通信業界での国内外の現場で得た経験を土台に出会いと学びを大切にしています。\n13期のみなさん、どうぞよろしくお願いいたします。",
+    "keywords": [
+      "プロフィール",
+      "経歴",
+      "自己紹介"
+    ],
+    "author": "高田信宏",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 8,
+    "title": "プロフィール",
+    "url": "https://self-introduction-takada-bs-with.netlify.app/",
+    "description": "通信業界での国内外の現場で得た経験を土台に出会いと学びを大切にしています。\n13期のみなさん、どうぞよろしくお願いいたします。",
+    "keywords": [
+      "プロフィール",
+      "経歴",
+      "自己紹介"
+    ],
+    "author": "高田信宏",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 9,
+    "title": "はじめまして",
+    "url": "https://singular-lebkuchen-3-with.netlify.app/",
+    "description": "家にトレーニングルームを作りました。\nベンチプレス、サンドバッグで毎日トレーニングしています。\n2年間の腰痛から筋肉の衰えを先生に指摘され、始めたらハマりました。",
+    "keywords": [
+      "プロフィール",
+      "経歴",
+      "自己紹介"
+    ],
+    "author": "竹村 宣彦",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 10,
+    "title": "OPT企業理念",
+    "url": "https://www.opt.ne.jp/us",
+    "description": "OPTの企業理念",
+    "keywords": [
+      "企業理念",
+      "OPT",
+      "おぷと"
+    ],
+    "author": "伊藤法子",
+    "created_at": "2026-09-06",
+    "category": "共有"
+  },
+  {
+    "id": 11,
+    "title": "事例紹介",
+    "url": "https://www.opt.ne.jp/casestudy/12507/",
+    "description": "インハウスの成功事例",
+    "keywords": [
+      "インハウス",
+      "デジタルマーケティング"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 12,
+    "title": "LTVM",
+    "url": "https://www.opt.ne.jp/business/in-house/",
+    "description": "LTVM\n近く、深く、速く、そして永く。\n顧客を先導するグロースリーダーへ。\nオプトの支援内容",
+    "keywords": [
+      "インハウス",
+      "デジタルマーケティング",
+      "LTVM"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "企画"
+  },
+  {
+    "id": 13,
+    "title": "LTVM",
+    "url": "https://www.opt.ne.jp/business/in-house/",
+    "description": "LTVM\n近く、深く、速く、そして永く。\n顧客を先導するグロースリーダーへ。\nオプトの支援内容",
+    "keywords": [
+      "インハウス",
+      "デジタルマーケティング",
+      "LTVM"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "企画"
+  },
+  {
+    "id": 14,
+    "title": "事例紹介",
+    "url": "https://www.opt.ne.jp/casestudy/672/",
+    "description": "【不動産業界】足で稼ぐ営業組織にデジタルの力を導入し、営業利益が10倍に。一瞬の出会いを一生のお客さまにする、オプトのLTVマーケティング",
+    "keywords": [
+      "LTVM",
+      "インハウス"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 15,
+    "title": "“組織の接続”から始まった経営改革",
+    "url": "https://www.opt.ne.jp/casestudy/12612/",
+    "description": "顧客との関係を起点に事業を見直し、営業・マーケティング・開発・サポートを全社目標に接続し直す。そして、やるべきことを一つずつ、地道にやり切る。",
+    "keywords": [
+      "LTVM",
+      "インハウス",
+      "経営改革"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 16,
+    "title": "“外部依存”から“共創型パートナーシップ”への進化 ",
+    "url": "https://www.opt.ne.jp/casestudy/12197/",
+    "description": "【不動産（管理・運営）業界】“外部依存”から“共創型パートナーシップ”への進化 —組織が自ら動ける状態をつくるインハウス支援の本質",
+    "keywords": [
+      "LTVM",
+      "インハウス",
+      "経営改革"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 17,
+    "title": "動画制作時間が半分かつ縦型動画のCPAが51％改善",
+    "url": "https://www.opt.ne.jp/casestudy/11589/",
+    "description": "【IT業界】生成AIが主導して、動画制作時間が半分かつ縦型動画のCPAが51％改善。CRAIS＋の導入で変わる、マーケティングの現場",
+    "keywords": [
+      "LTVM",
+      "インハウス",
+      "CRAIS",
+      "GREEN FUNDING",
+      "IT業界"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 18,
+    "title": "組織力と顧客満足度を高めるPR×デジタルマーケティング施策",
+    "url": "https://www.opt.ne.jp/casestudy/11440/",
+    "description": "【IT・アパレル（DX）業界】組織力と顧客満足度を高めるPR×デジタルマーケティング施策。23区ブランドのキャンペーンを成功に導いた「DRメソッド」",
+    "keywords": [
+      "LTVM",
+      "インハウス",
+      "アパレル（DX）業界",
+      "IT業界"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 19,
+    "title": "LINEマーケティング",
+    "url": "https://www.opt.ne.jp/casestudy/9226/",
+    "description": "【飲料・食品業界】「時代にフィットした形にビジネスを変革」。サントリーの使命を実現する、オプトのLINEマーケティング",
+    "keywords": [
+      "LTVM",
+      "インハウス",
+      "飲料・食品業界"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  },
+  {
+    "id": 20,
+    "title": "先進的な広告配信",
+    "url": "https://www.opt.ne.jp/casestudy/623/",
+    "description": "【アパレル（小売）業界】LTV向上を目指した先進的な広告配信。オプトの「伴走力」と「推進力」とは",
+    "keywords": [
+      "LTVM",
+      "インハウス",
+      "アパレル（小売）業界"
+    ],
+    "author": "OPT",
+    "created_at": "2026-09-06",
+    "category": "事例"
+  }
+]
